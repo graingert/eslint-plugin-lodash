@@ -1,6 +1,6 @@
 # Property shorthand
 
-When using certain method in lodash such as map, it's possible to use the `_.property` callback shorthand. 
+When using certain methods in lodash such as map, it's possible to use the `_.property` callback shorthand. 
 This rule will enforce whether or not to use shorthand when possible to keep consistency in your code.
 
 ## Rule Details
